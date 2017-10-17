@@ -1,0 +1,16 @@
+canvas {
+	margin-top: 60px;
+	border: 3px solid black;
+	/*background-image: url("../img/flappyBackground.png");*/
+	/*background-color: black;*/
+}
+
+body {
+	/*background-image: url("../img/flappyBackground.png");*/
+	background-color: black;
+}
+
+.wesh {
+	text-align: center;
+	margin-top: 2%;
+}
